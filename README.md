@@ -2,9 +2,7 @@
 
 ![Banner de Condor Coders](portada_github.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaGabriela&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaGabriela&show_icons=true&bg_color=00000000&title_color=9a2edb&text_color=9a2edb&icon_color=9a2edb) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaGabriela&layout=compact&theme=dark)
 
 <!--
 **NataliaGabriela/NataliaGabriela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
