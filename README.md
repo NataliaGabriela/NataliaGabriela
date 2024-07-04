@@ -1,13 +1,19 @@
 ## <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/>    Hola, ¡Bienvenido a mi perfil de Github! 
 
-![Banner de Condor Coders](portada_github.png)
+![Banner de Condor Coders](img/portada_github.png)
 
 ## Tecnologias 💻
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node](https://img.shields.io/badge/node-%2320232a.svg?style=for-the-badge&logo=node&logoColor=%2361DAFB)
+
+<div>
+ <img height="32" width="32" src="./img/html.png" />
+ <img height="32" width="32" src="./img/css.png" />
+ <img height="32" width="32" src="./img/bootstrap.png" />
+ <img height="32" width="32" src="./img/javascript.png" />
+ <img height="32" width="32" src="./img/react.png" />
+ <img height="32" width="32" src="./img/git.png" />
+ <img height="32" width="32" src="./img/github.png" />
+ 
+</div>
 
 ## Las estadisticas del repositorio
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaGabriela&show_icons=true&bg_color=00000000&title_color=9a2edb&icon_color=9a2edb&text_color=ffffff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaGabriela&layout=compact&theme=dark&title_color=9a2edb)
