@@ -7,6 +7,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node](https://img.shields.io/badge/node-%2320232a.svg?style=for-the-badge&logo=node&logoColor=%2361DAFB)
 
 ## Las estadisticas del repositorio
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaGabriela&show_icons=true&bg_color=00000000&title_color=9a2edb&icon_color=9a2edb&text_color=ffffff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaGabriela&layout=compact&theme=dark&title_color=9a2edb)
