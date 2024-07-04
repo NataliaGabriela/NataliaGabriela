@@ -2,7 +2,7 @@
 
 ![Banner de Condor Coders](img/portada_github.png)
 
-## Tecnologias 💻
+## Tecnologías 💻
 
 <div>
  <img height="32" width="32" src="./img/html.png" />
@@ -15,8 +15,11 @@
  
 </div>
 
-## Las estadisticas del repositorio
+## Mis estadísticas de Github
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaGabriela&show_icons=true&bg_color=00000000&title_color=9a2edb&icon_color=9a2edb&text_color=ffffff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaGabriela&layout=compact&theme=dark&title_color=9a2edb)
+
+
+### 🏆 Trofeos de perfil de Github
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NataliaGabriela&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
