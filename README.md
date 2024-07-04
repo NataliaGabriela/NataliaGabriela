@@ -9,9 +9,9 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Las estadisticas del repositorio
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaGabriela&show_icons=true&bg_color=00000000&title_color=9a2edb&icon_color=9a2edb&text_color=ffffff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaGabriela&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaGabriela&show_icons=true&bg_color=00000000&title_color=9a2edb&icon_color=9a2edb&text_color=ffffff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaGabriela&layout=compact&theme=dark&title_color=9a2edb)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NataliaGabriela&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy&title_color=9a2edb)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NataliaGabriela&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **NataliaGabriela/NataliaGabriela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
